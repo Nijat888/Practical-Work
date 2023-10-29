@@ -1,0 +1,146 @@
+body {
+
+    background-image: url('../img/nature_furniture_front_moroso_3-1314x876.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+
+}
+
+
+.main {
+    width: 100%;
+    min-height: 100%;
+    float: left;
+}
+
+.first {
+    width: 80%;
+    min-height: 730px;
+    float: left;
+
+}
+
+.firstTitle {
+    width: 150px;
+    min-height: 80px;
+    float: left;
+
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.bodyPart {
+    width: 100%;
+    min-height: 730px;
+    float: left;
+
+    padding: 250px;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+.button {
+    border: none;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+
+}
+
+.button1 {
+    background-color: rgba(0, 0, 0, 0);
+    color: #D1D3D2FF;
+    border: 2px solid #D1D3D2FF;
+}
+
+.button2 {
+    background-color: rgba(0, 0, 0, 0);
+    color: #D1D3D2FF;
+    border: 2px solid #D1D3D2FF
+}
+
+
+.mainMenu {
+    width: 10%;
+    min-height: 730px;
+    float: left;
+
+}
+
+.menu {
+    width: 100%;
+    min-height: 365px;
+    float: left;
+    color: yellowgreen;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 15px;
+    padding-left: 100px;
+    box-sizing: border-box;
+}
+
+.scroll {
+    width: 100%;
+    min-height: 365px;
+    float: left;
+    color: white;
+    text-align: center;
+    padding-top: 305px;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.secondMainMenu {
+    width: 10%;
+    min-height: 730px;
+    float: left;
+
+}
+
+.secondMenu {
+    width: 100%;
+    min-height: 250px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.lastMenu {
+    width: 100%;
+    min-height: 480px;
+    float: left;
+    padding-top: 15px;
+    padding-left: 100px;
+    box-sizing: border-box;
+}
+
+.twitter {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0, 0);
+
+}
+
+.facebook {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0, 0);
+    text-decoration: none;
+
+}
+
+.instagram {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0, 0);
+
+}

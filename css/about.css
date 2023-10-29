@@ -1,0 +1,57 @@
+:root {
+    --bg: #EDCC48
+}
+
+.main {
+    width: 900px;
+    min-height: 550px;
+    float: left;
+
+}
+
+.rheader {
+    width: 900px;
+    min-height: 70px;
+    float: left;
+    background: var(--bg);
+    margin-bottom: 15px;
+}
+
+.nnav {
+    width: 250px;
+    min-height: inherit;
+    float: left;
+    background: var(--bg);
+}
+
+.rightSide {
+    width: 635px;
+    min-height: inherit;
+    float: left;
+
+    margin-left: 15px;
+}
+
+.leftSide {
+    width: 370px;
+    min-height: 465px;
+    float: left;
+    background: var(--bg);
+
+}
+
+.nextSide {
+    width: 250px;
+    min-height: 465px;
+    float: left;
+    background: var(--bg);
+    margin-left: 15px;
+}
+
+.footer {
+    width: 635px;
+    min-height: 70px;
+    float: left;
+    background: var(--bg);
+    margin-top: 15px;
+}
